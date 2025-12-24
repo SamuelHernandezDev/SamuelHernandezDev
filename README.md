@@ -44,40 +44,12 @@ Many of my projects are designed around **real operational scenarios**, such as 
 - ADO.NET
 - Crystal Reports
 
-#### Databases
-- SQL Server
-- MySQL
-- SQLite
-- MongoDB
-
 #### Cloud & Automation
 - Google Apps Script
 - Google Drive & Google Sheets automation
 - Google Cloud integration
 - Excel (.xlsx) data processing
 - Bash scripting
-
-#### Tools
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- SonarQube (static code analysis)
-- Visual Studio
-- Visual Studio Code
-- Postman
-
-#### Operating Systems
-- Windows
-- Linux (Ubuntu, Debian)
-
-#### Software Testing
-- Manual testing
-- Functional validation
-- Bug identification and reporting
-
-#### Networking (Basic)
-- TCP/IP fundamentals
-- IP addressing and basic configuration
-- Network devices (router, switch)
 
 ---
 
