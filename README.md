@@ -1,76 +1,67 @@
-## Hi there 👋 I'm Samuel Hernández
+## Hi 👋 I'm Samuel Hernández
 
-🎓 Computer Systems Engineering Student  
-💻 Web & Desktop Application Developer  
-📊 Interested in automation, data processing, and real-world systems
+🎓 Computer Systems Engineering student (final semester – residency)  
+💻 Web Developer (Junior Full-Stack, frontend-focused)  
 
 ---
 
-### 🌟 About Me
-I'm a Computer Systems Engineering student with experience developing **academic and personal projects** focused on **software automation, data management, and system integration**.
+### 👨‍💻 About Me
+I'm a Web Developer with a strong focus on **frontend development**, working mainly with **React, JavaScript, and TypeScript** to build and maintain web applications.
 
-I enjoy building applications that go beyond basic CRUD systems, integrating:
-- Databases and performance analysis
-- Automation using cloud services
-- Role-based systems and reporting
-- Backend and frontend communication
+I have experience developing **dashboards, data tables, and responsive user interfaces**, as well as consuming and integrating **REST APIs** with backend services. I’m comfortable reading and modifying existing code, fixing bugs, and implementing new features based on requirements.
 
-Many of my projects are designed around **real operational scenarios**, such as enterprise reporting systems, data validation pipelines, and interactive applications.
+My backend experience is at a **basic junior level**, mainly using **Node.js and Express**, along with **relational databases (SQL)** for simple queries and data handling.
 
 ---
 
 ### 🛠️ Technical Skills
 
-#### Programming Languages
-- C# (.NET, .NET Core, WinForms)
-- JavaScript / TypeScript
-- Python
-- SQL
-- Bash
-
-#### Web Development
+**Frontend**
 - React
-- Vite
+- JavaScript (ES6+)
+- TypeScript
 - HTML5 / CSS3
 - Tailwind CSS
+
+**Backend**
 - Node.js
 - Express.js
+- Python (basic)
+
+**APIs & Data**
 - REST APIs
 - JSON
+- HTTP methods (GET / POST)
 
-#### Desktop Development
-- C# WinForms
-- Entity Framework Core
-- ADO.NET
-- Crystal Reports
+**Databases**
+- SQL (MySQL, SQL Server)
+- MongoDB (basic familiarity)
 
-#### Cloud & Automation
-- Google Apps Script
-- Google Drive & Google Sheets automation
-- Google Cloud integration
-- Excel (.xlsx) data processing
-- Bash scripting
-
----
-
-### 📌 Featured Projects
-- **Artemis C4** – Web platform for automated operational reports using React, Node.js, and Google Apps Script
-- **Employee Manager** – Performance comparison between Entity Framework Core and SQL (ADO.NET)
-- **Olympic Management** – Desktop CRUD system with SQL Server and Crystal Reports
-- **SoundVenture** – Interactive MIDI-based web applications
-- **Coffee Recommender System** – Rule-based recommendation system using Prolog
-
-> ⚠️ Some web projects are still in development as part of continuous academic learning.
+**Tools**
+- Git & GitHub
+- GitHub Actions (basic CI/CD)
+- VS Code
+- Postman
+- npm
 
 ---
 
-### 🎯 Academic Interests
-- Software automation
-- Data-driven systems
-- Cloud services integration
-- Backend performance analysis
-- Full-stack development
+### 📌 Projects
+Most of my repositories contain **academic and learning-focused projects** that demonstrate my understanding of:
+- Frontend development with React
+- Application flow and component structure
+- API consumption and integration
+- Basic backend logic
+
+> Some projects are still in progress as part of my continuous learning process.
 
 ---
 
-📫 Feel free to explore my repositories and academic projects.
+### 🎯 Current Focus
+- Improving frontend architecture and UI quality
+- Strengthening full-stack fundamentals
+- Learning best practices for production-ready web applications
+
+---
+
+📫 Feel free to explore my repositories.
