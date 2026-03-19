@@ -1,16 +1,15 @@
 ## Hi 👋 I'm Samuel Hernández
 
 🎓 Computer Systems Engineering student (final semester – residency)  
-💻 Web Developer (Junior Full-Stack, frontend-focused)  
+💻 Web Developer (Full-Stack, frontend-focused)  
 
 ---
 
 ### 👨‍💻 About Me
-I'm a Web Developer with a strong focus on **frontend development**, working mainly with **React, JavaScript, and TypeScript** to build and maintain web applications.
-
-I have experience developing **dashboards, data tables, and responsive user interfaces**, as well as consuming and integrating **REST APIs** with backend services. I’m comfortable reading and modifying existing code, fixing bugs, and implementing new features based on requirements.
-
-My backend experience is at a **basic junior level**, mainly using **Node.js and Express**, along with **relational databases (SQL)** for simple queries and data handling.
+I'm a Web Developer with experience building and maintaining web applications using React, JavaScript, and TypeScript.
+Frontend-focused, with experience creating responsive user interfaces.
+Skilled in consuming REST APIs and integrating frontend components with existing backend services.
+Currently completing the final stage (residency) of a degree in Computer Systems Engineering.
 
 ---
 
@@ -26,12 +25,12 @@ My backend experience is at a **basic junior level**, mainly using **Node.js and
 **Backend**
 - Node.js
 - Express.js
-- Python (basic)
+- Python 
 
 **APIs & Data**
 - REST APIs
 - JSON
-- HTTP methods (GET / POST)
+- HTTP methods
 
 **Databases**
 - SQL (MySQL, SQL Server)
@@ -47,7 +46,7 @@ My backend experience is at a **basic junior level**, mainly using **Node.js and
 ---
 
 ### 📌 Projects
-Most of my repositories contain **academic and learning-focused projects** that demonstrate my understanding of:
+Most of my repositories contain **learning-focused projects** that demonstrate my understanding of:
 - Frontend development with React
 - Application flow and component structure
 - API consumption and integration
