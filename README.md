@@ -102,17 +102,3 @@ Interactive music-learning platform using PixiJS and Web MIDI API for real-time 
 
 * LinkedIn
 * GitHub
-
----
-
-La diferencia es que este README está alineado con el CV que acabas de construir.
-
-Cuando un reclutador entre a tu GitHub debería pensar:
-
-> "Este es un Full Stack Developer que trabaja con IA, analytics, dashboards y aplicaciones de negocio."
-
-No:
-
-> "Es un estudiante frontend aprendiendo React."
-
-Porque honestamente, ya superaste esa etapa.
